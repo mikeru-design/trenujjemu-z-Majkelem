@@ -11,7 +11,7 @@ html {
 
 body {
   position: relative;
-  background-color: #8a8a8a;
+  background-color: white;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -19,7 +19,7 @@ body {
   top: 0;
   position: -webkit-sticky;
   position: sticky;
-  background-color: #93ffff;
+  background-color: #0fcfcf;
   -webkit-transition: -webkit-box-shadow 0.5s;
   transition: -webkit-box-shadow 0.5s;
   transition: box-shadow 0.5s;
@@ -49,7 +49,7 @@ body {
   padding-left: 0;
   padding: 0.8rem 0px;
   margin: 0 1rem;
-  color: #472737;
+  color: #a53b70;
 }
 
 .navbar .navbar-nav .nav-link::first-letter {
@@ -63,7 +63,7 @@ body {
   bottom: 0;
   width: 100%;
   height: 2px;
-  background-color: #472737;
+  background-color: #a53b70;
   -webkit-transform: scaleX(0);
           transform: scaleX(0);
   -webkit-transition: -webkit-transform 0.3s;
@@ -96,7 +96,7 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #472737;
+  color: #a53b70;
 }
 
 .navbar .navbar-toggler-icon .fas {
@@ -138,7 +138,7 @@ section {
 }
 
 #home {
-  background-color: #00c3ff;
+  background-color: #6eddff;
 }
 
 #home #homeCarousel {
@@ -177,32 +177,32 @@ section {
   left: 0;
   right: 0;
   padding: 30px;
-  background-color: #472737;
+  background-color: #a53b70;
   z-index: 2;
 }
 
 #about {
-  background-color: #eb87d5;
+  background-color: #ff50d9;
 }
 
 #degrees {
-  background-color: #5fd8b0;
+  background-color: #48ffc2;
 }
 
 #services {
-  background-color: #fff7ac;
+  background-color: #ffef61;
 }
 
 #pricing {
-  background-color: #00c3ff;
+  background-color: #5ed9ff;
 }
 
 #cooperation {
-  background-color: #ff74e1;
+  background-color: #d06cff;
 }
 
 #contact {
-  background-color: #383abe;
+  background-color: #9496ff;
 }
 
 @media (min-width: 992px) {

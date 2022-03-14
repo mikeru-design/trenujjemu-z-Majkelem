@@ -9,7 +9,7 @@ body {
 	position: relative;
 	// width: 100vw;
 	// overflow-y: hidden;
-	background-color: rgb(138, 138, 138);
+	background-color: rgb(255, 255, 255);
 	font-family: 'Montserrat', sans-serif;
 	// scroll-behavior: smooth;
 }
@@ -110,7 +110,7 @@ section {
 }
 
 #home {
-	background-color: rgb(0, 195, 255);
+	background-color: rgb(110, 221, 255);
 	#homeCarousel {
 		height: 70vh;
 		width: 100%;
@@ -165,22 +165,22 @@ section {
 	}
 }
 #about {
-	background-color: rgb(235, 135, 213);
+	background-color: rgb(255, 80, 217);
 }
 #degrees {
-	background-color: rgb(95, 216, 176);
+	background-color: rgb(72, 255, 194);
 }
 #services {
-	background-color: rgb(255, 247, 172);
+	background-color: rgb(255, 239, 97);
 }
 #pricing {
-	background-color: rgb(0, 195, 255);
+	background-color: rgb(94, 217, 255);
 }
 #cooperation {
-	background-color: rgb(255, 116, 225);
+	background-color: rgb(208, 108, 255);
 }
 #contact {
-	background-color: rgb(56, 58, 190);
+	background-color: rgb(148, 150, 255);
 }
 
 @media (min-width: 992px) {
